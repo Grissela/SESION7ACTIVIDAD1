@@ -1,0 +1,28 @@
+
+.card{
+    margin: 0 auto;
+    margin-top: 25px;
+    width: 200px;
+    padding:50px 10px;
+    padding-bottom: 80px;
+    background-color: rgb(226, 225, 225);
+    border: none;
+    font-weight: medium;
+}
+
+.buton1{
+    margin-right:15px;
+    background-color: rgb(23, 23, 150);
+    color: white;
+    padding: 10px 10px;
+    border: none;
+    border-radius: 5px;
+}
+.buton2{
+    margin-right:15px;
+    background-color: rgb(13, 175, 86);
+    color: white;
+    padding: 10px 10px;
+    border: none;
+    border-radius: 5px;
+}

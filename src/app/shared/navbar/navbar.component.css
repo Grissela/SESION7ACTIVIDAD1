@@ -1,0 +1,21 @@
+.contenido{
+    background-color: rgb(212, 35, 35);
+    color: white;
+    padding: 15px 0;
+}
+.contenido a{
+    padding-left: 10px;
+    font-weight: bold;
+    font-size: 18px;
+    letter-spacing: 25;
+}
+.navbar{
+    background-color: rgb(235, 118, 118);
+}
+.navbar .nav-link{
+    color: white;
+}
+
+.navbar .nav-link:hover{
+    color:  rgb(212, 35, 35);
+}
